@@ -1,0 +1,197 @@
+# Formulaire d'administration du site (Pages CMS : https://app.pagescms.org)
+media:
+  input: uploads
+  output: /uploads
+
+content:
+  - name: site
+    label: Mon site
+    type: file
+    path: content/site.json
+    format: json
+    fields:
+      # ---------- En-tête ----------
+      - name: nom
+        label: Nom
+        type: string
+        required: true
+      - name: photo
+        label: Photo de profil
+        description: Une photo carrée de préférence. Laisse vide pour afficher l'hémicycle.
+        type: image
+      - name: titre_fr
+        label: Titre (FR)
+        type: string
+      - name: titre_en
+        label: Titre (EN)
+        type: string
+      - name: bio_fr
+        label: Présentation (FR)
+        type: text
+      - name: bio_en
+        label: Présentation (EN)
+        type: text
+      - name: ville_fr
+        label: Ville (FR)
+        type: string
+      - name: ville_en
+        label: Ville (EN)
+        type: string
+      - name: cv_pdf
+        label: CV en PDF
+        description: Le bouton « Télécharger mon CV » n'apparaît que si un fichier est ajouté ici. Attention, tout le monde pourra lire ce PDF.
+        type: file
+
+      # ---------- Contact ----------
+      - name: email
+        label: E-mail affiché
+        type: string
+      - name: liens
+        label: Liens (LinkedIn, ORCID, Google Scholar…)
+        type: object
+        list: true
+        fields:
+          - name: nom
+            label: Nom du lien
+            description: "Ex. : LinkedIn"
+            type: string
+          - name: url
+            label: Adresse
+            description: "Ex. : https://www.linkedin.com/in/ton-profil"
+            type: string
+
+      # ---------- Recherche ----------
+      - name: publications
+        label: Recherche et publications
+        type: object
+        list: true
+        fields:
+          - name: type_fr
+            label: Type (FR)
+            description: "Ex. : Mémoire de master, Article, Communication"
+            type: string
+          - name: type_en
+            label: Type (EN)
+            type: string
+          - name: annee
+            label: Année
+            type: string
+          - name: institution
+            label: Institution ou revue
+            type: string
+          - name: titre_fr
+            label: Titre (FR)
+            type: string
+          - name: titre_en
+            label: Titre (EN)
+            type: string
+          - name: resume_fr
+            label: Résumé (FR)
+            type: text
+          - name: resume_en
+            label: Résumé (EN)
+            type: text
+          - name: mots_cles_fr
+            label: Mots-clés (FR)
+            type: string
+            list: true
+          - name: mots_cles_en
+            label: Mots-clés (EN)
+            type: string
+            list: true
+          - name: fichier
+            label: Fichier PDF
+            type: file
+          - name: lien
+            label: Lien externe
+            description: "Ex. : lien vers DiVA, DIAL, une revue…"
+            type: string
+
+      # ---------- Parcours ----------
+      - name: formation
+        label: Formation
+        type: object
+        list: true
+        fields:
+          - name: dates
+            label: Dates
+            description: "Ex. : 2018 – 2020"
+            type: string
+          - name: titre_fr
+            label: Diplôme (FR)
+            type: string
+          - name: titre_en
+            label: Diplôme (EN)
+            type: string
+          - name: lieu
+            label: Établissement
+            type: string
+          - name: details_fr
+            label: Détails (FR)
+            type: string
+          - name: details_en
+            label: Détails (EN)
+            type: string
+
+      - name: experience
+        label: Expérience
+        type: object
+        list: true
+        fields:
+          - name: dates_fr
+            label: Dates (FR)
+            description: "Ex. : Depuis janv. 2025"
+            type: string
+          - name: dates_en
+            label: Dates (EN)
+            description: "Ex. : Since Jan 2025"
+            type: string
+          - name: titre_fr
+            label: Poste (FR)
+            type: string
+          - name: titre_en
+            label: Poste (EN)
+            type: string
+          - name: lieu
+            label: Employeur
+            type: string
+          - name: details_fr
+            label: Détails (FR)
+            type: string
+          - name: details_en
+            label: Détails (EN)
+            type: string
+          - name: actuel
+            label: Poste actuel
+            type: boolean
+
+      # ---------- Compétences ----------
+      - name: competences
+        label: Compétences
+        type: object
+        list: true
+        fields:
+          - name: fr
+            label: Compétence (FR)
+            type: string
+          - name: en
+            label: Compétence (EN)
+            type: string
+
+      - name: langues
+        label: Langues
+        type: object
+        list: true
+        fields:
+          - name: fr
+            label: Langue (FR)
+            type: string
+          - name: en
+            label: Langue (EN)
+            type: string
+          - name: niveau_fr
+            label: Niveau (FR)
+            type: string
+          - name: niveau_en
+            label: Niveau (EN)
+            type: string

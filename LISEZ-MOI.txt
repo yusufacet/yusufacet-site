@@ -1,0 +1,15 @@
+SITE DE YUSUF ACET : comment le modifier
+
+Pour modifier le site :
+  1. Va sur https://app.pagescms.org et connecte-toi avec GitHub.
+  2. Ouvre le dépôt "yusufacet-site", puis "Mon site".
+  3. Modifie les champs (FR et EN), ajoute photo, CV ou PDF, puis clique sur "Save".
+  4. Une à deux minutes plus tard, yusufacet.eu est à jour (Netlify republie tout seul).
+
+Contenu du dossier :
+  index.html         la mise en page (ne pas modifier)
+  content/site.json  tout le texte du site (modifié par le formulaire)
+  .pages.yml         la description du formulaire
+  uploads/           photos et PDF ajoutés depuis le formulaire
+
+Astuce : pour partager la version anglaise directement, utilise https://yusufacet.eu/#en
