@@ -1,15 +1,18 @@
 {
   "nom": "Yusuf Acet",
-  "photo": "",
-  "email": "yusufacetbe@hotmail.com",
-  "ville_fr": "Bruxelles, Belgique",
-  "ville_en": "Brussels, Belgium",
   "titre_fr": "Politologue · Enseignant et éducateur",
   "titre_en": "Political scientist · Teacher and educator",
   "bio_fr": "Diplômé d'un master en sciences politiques de l'Université libre de Bruxelles, avec un séjour Erasmus+ à la Freie Universität Berlin. Mes recherches portent sur le comportement électoral et la participation politique des communautés issues de l'immigration à Bruxelles. En parallèle, j'enseigne et j'accompagne des élèves dans l'enseignement secondaire bruxellois.",
   "bio_en": "I hold a master's degree in political science from the Université libre de Bruxelles, including an Erasmus+ exchange at the Freie Universität Berlin. My research focuses on electoral behaviour and the political participation of migrant-origin communities in Brussels. Alongside research, I teach and support pupils in secondary schools in Brussels.",
-  "cv_pdf": "",
-  "liens": [],
+  "ville_fr": "Bruxelles, Belgique",
+  "ville_en": "Brussels, Belgium",
+  "email": "yusufacetbe@hotmail.com",
+  "liens": [
+    {
+      "nom": "LinkedIn",
+      "url": "https://www.linkedin.com/in/yusuf-acet-997201186"
+    }
+  ],
   "publications": [
     {
       "type_fr": "Mémoire de master",
@@ -20,10 +23,19 @@
       "titre_en": "The electoral behaviour of the Belgian-Turkish community in Brussels",
       "resume_fr": "Une étude des choix de vote et des formes de participation politique des Bruxellois d'origine turque, dans le contexte institutionnel belge et bruxellois.",
       "resume_en": "A study of the voting choices and forms of political participation of Brussels residents of Turkish origin, within the Belgian and Brussels institutional context.",
-      "mots_cles_fr": ["Sociologie électorale", "Diversité et représentation", "Diaspora turque", "Région de Bruxelles-Capitale"],
-      "mots_cles_en": ["Electoral sociology", "Diversity and representation", "Turkish diaspora", "Brussels-Capital Region"],
-      "fichier": "",
-      "lien": ""
+      "mots_cles_fr": [
+        "Sociologie électorale",
+        "Diversité et représentation",
+        "Diaspora turque",
+        "Région de Bruxelles-Capitale"
+      ],
+      "mots_cles_en": [
+        "Electoral sociology",
+        "Diversity and representation",
+        "Turkish diaspora",
+        "Brussels-Capital Region"
+      ],
+      "fichier": "/uploads/Mémoire - Acet Yusuf.pdf"
     }
   ],
   "formation": [
@@ -47,9 +59,7 @@
       "dates": "2014 – 2018",
       "titre_fr": "Bachelier en sciences politiques",
       "titre_en": "Bachelor's in Political Science",
-      "lieu": "Université libre de Bruxelles",
-      "details_fr": "",
-      "details_en": ""
+      "lieu": "Université libre de Bruxelles"
     }
   ],
   "experience": [
@@ -59,8 +69,6 @@
       "titre_fr": "Éducateur",
       "titre_en": "Educator",
       "lieu": "I.C.T. Frans Fischer, Bruxelles",
-      "details_fr": "",
-      "details_en": "",
       "actuel": true
     },
     {
@@ -69,8 +77,6 @@
       "titre_fr": "Éducateur",
       "titre_en": "Educator",
       "lieu": "Athénée Fernand Blum, Bruxelles",
-      "details_fr": "",
-      "details_en": "",
       "actuel": false
     },
     {
@@ -105,15 +111,47 @@
     }
   ],
   "competences": [
-    { "fr": "Recherche en sciences sociales", "en": "Social science research" },
-    { "fr": "Analyse de données", "en": "Data analysis" },
-    { "fr": "Rédaction", "en": "Academic writing" },
-    { "fr": "Microsoft Office", "en": "Microsoft Office" }
+    {
+      "fr": "Recherche en sciences sociales",
+      "en": "Social science research"
+    },
+    {
+      "fr": "Analyse de données",
+      "en": "Data analysis"
+    },
+    {
+      "fr": "Rédaction",
+      "en": "Academic writing"
+    },
+    {
+      "fr": "Microsoft Office",
+      "en": "Microsoft Office"
+    }
   ],
   "langues": [
-    { "fr": "Français", "en": "French", "niveau_fr": "langue maternelle", "niveau_en": "native" },
-    { "fr": "Anglais", "en": "English", "niveau_fr": "C1", "niveau_en": "C1" },
-    { "fr": "Allemand", "en": "German", "niveau_fr": "A2/B1", "niveau_en": "A2/B1" },
-    { "fr": "Néerlandais", "en": "Dutch", "niveau_fr": "A2/B1", "niveau_en": "A2/B1" }
+    {
+      "fr": "Français",
+      "en": "French",
+      "niveau_fr": "langue maternelle",
+      "niveau_en": "native"
+    },
+    {
+      "fr": "Anglais",
+      "en": "English",
+      "niveau_fr": "C1",
+      "niveau_en": "C1"
+    },
+    {
+      "fr": "Allemand",
+      "en": "German",
+      "niveau_fr": "A2/B1",
+      "niveau_en": "A2/B1"
+    },
+    {
+      "fr": "Néerlandais",
+      "en": "Dutch",
+      "niveau_fr": "A2/B1",
+      "niveau_en": "A2/B1"
+    }
   ]
 }
