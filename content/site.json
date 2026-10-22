@@ -36,6 +36,30 @@
         "Brussels-Capital Region"
       ],
       "fichier": "/uploads/Mémoire - Acet Yusuf.pdf"
+    },
+    {
+      "type_fr": "Article d'analyse",
+      "type_en": "Analysis article",
+      "annee": "2021",
+      "institution": "Justice & Paix",
+      "titre_fr": "Les déchets européens vont-ils jusqu'en Orient ?",
+      "titre_en": "Does European waste end up in the East?",
+      "resume_fr": "Près de la moitié des déchets plastiques collectés dans l'Union européenne pour être recyclés sont exportés hors du continent, en grande partie vers la Turquie. L'article examine les effets environnementaux et politiques de cette délégation, le manque de transparence de la filière de recyclage turque, et propose des pistes d'action : transparence des filières, consigne des bouteilles et économie circulaire locale.",
+      "resume_en": "Nearly half of the plastic waste collected in the European Union for recycling is exported outside the continent, largely to Turkey. The article examines the environmental and political consequences of this outsourcing, the lack of transparency in the Turkish recycling sector, and proposes courses of action: traceable waste streams, bottle deposit schemes and a local circular economy.",
+      "mots_cles_fr": [
+        "Gestion des déchets",
+        "Transition écologique",
+        "Union Européenne",
+        "Turquie"
+      ],
+      "mots_cles_en": [
+        "Waste management",
+        "Ecological transition",
+        "European Union",
+        "Turkey"
+      ],
+      "fichier": "/uploads/les-dechets-europeens-vont-ils-jusquen-orient.pdf",
+      "lien": "https://www.justicepaix.be/les-dechets-europeens-vont-ils-jusquen-orient/"
     }
   ],
   "formation": [
