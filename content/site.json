@@ -61,6 +61,52 @@
       ],
       "fichier": "/uploads/les-dechets-europeens-vont-ils-jusquen-orient.pdf",
       "lien": "https://www.justicepaix.be/les-dechets-europeens-vont-ils-jusquen-orient/"
+    },
+    {
+      "type_fr": "Essai Académique",
+      "type_en": "Academic Essay",
+      "annee": "2019 (edited 2026)",
+      "institution": "ULB - FÜB",
+      "titre_fr": "Gagner sans avoir le plus de voix : le scrutin majoritaire uninominal et la représentation des électeurs au Canada (2015–2025)",
+      "titre_en": "Winning Without the Most Votes: First-Past-The-Post and the Quality of Voters' Representation in Canadian Federal Elections (2015–2025)",
+      "resume_fr": "À partir des élections fédérales canadiennes de 2015 à 2025, cet essai analyse comment le scrutin majoritaire uninominal à un tour traduit les voix en sièges. En 2019 et 2021, le Parti libéral a obtenu le plus de sièges avec moins de voix que les conservateurs, et en 2025 le Bloc québécois a remporté 22 sièges contre 7 pour le NPD avec la même part des voix. Le texte mesure cette disproportionnalité (indice de Gallagher) et propose deux réformes : une représentation proportionnelle à petites circonscriptions plurinominales et un système mixte compensatoire.",
+      "resume_en": "Drawing on Canadian federal elections from 2015 to 2025, this essay examines how the first-past-the-post system translates votes into seats. In 2019 and 2021, the Liberal Party won the most seats with fewer votes than the Conservatives, and in 2025 the Bloc Québécois won 22 seats against 7 for the NDP with the same vote share. The essay measures this disproportionality (Gallagher index) and proposes two reforms: proportional representation with small multi-member districts and mixed-member proportional representation.",
+      "mots_cles_fr": [
+        "Systèmes électoraux",
+        "Scrutin majoritaire",
+        "Représentation",
+        "Canada"
+      ],
+      "mots_cles_en": [
+        "Electoral systems",
+        "First-past-the-post",
+        "Representation",
+        "Canada"
+      ],
+      "fichier": "/uploads/Winning Without the Most Votes - Acet Yusuf.pdf"
+    },
+    {
+      "type_fr": "Essai académique",
+      "type_en": "Academic essay",
+      "annee": "2018 (edited 2026)",
+      "institution": "ULB",
+      "titre_fr": "Majorités fabriquées : le scrutin majoritaire uninominal et la représentation des électeurs au Royaume-Uni et au Canada",
+      "titre_en": "Manufactured Majorities: The Impact of the First-Past-The-Post Electoral System on the Quality of Voters' Representation in the United Kingdom and Canada",
+      "resume_fr": "Cet essai compare les effets du scrutin majoritaire uninominal au Royaume-Uni et au Canada. Aux élections britanniques de 2024, le Parti travailliste a obtenu 63 % des sièges avec 34 % des voix, tandis que Reform UK n'a remporté que 5 sièges avec 14 % des voix. Le texte montre comment ce système fabrique des majorités à partir d'une minorité d'électeurs et favorise les partis dont le vote est géographiquement concentré, puis plaide pour une représentation proportionnelle à petites circonscriptions.",
+      "resume_en": "This essay compares the effects of the first-past-the-post system in the United Kingdom and Canada. In the 2024 UK general election, Labour won 63% of the seats with 34% of the votes, while Reform UK won only 5 seats with 14%. The essay shows how this system manufactures majorities from a minority of voters and favours parties whose support is geographically concentrated, and argues for proportional representation with small multi-member districts.",
+      "mots_cles_fr": [
+        "Systèmes électoraux",
+        "Scrutin majoritaire",
+        "R-U",
+        "Canada"
+      ],
+      "mots_cles_en": [
+        "Electoral systems",
+        "First-past-the-post",
+        "United Kingdom",
+        "Canada"
+      ],
+      "fichier": "/uploads/Manufactured Majorities - Acet Yusuf.pdf"
     }
   ],
   "formation": [
