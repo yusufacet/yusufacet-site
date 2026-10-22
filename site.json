@@ -1,0 +1,119 @@
+{
+  "nom": "Yusuf Acet",
+  "photo": "",
+  "email": "yusufacetbe@hotmail.com",
+  "ville_fr": "Bruxelles, Belgique",
+  "ville_en": "Brussels, Belgium",
+  "titre_fr": "Politologue · Enseignant et éducateur",
+  "titre_en": "Political scientist · Teacher and educator",
+  "bio_fr": "Diplômé d'un master en sciences politiques de l'Université libre de Bruxelles, avec un séjour Erasmus+ à la Freie Universität Berlin. Mes recherches portent sur le comportement électoral et la participation politique des communautés issues de l'immigration à Bruxelles. En parallèle, j'enseigne et j'accompagne des élèves dans l'enseignement secondaire bruxellois.",
+  "bio_en": "I hold a master's degree in political science from the Université libre de Bruxelles, including an Erasmus+ exchange at the Freie Universität Berlin. My research focuses on electoral behaviour and the political participation of migrant-origin communities in Brussels. Alongside research, I teach and support pupils in secondary schools in Brussels.",
+  "cv_pdf": "",
+  "liens": [],
+  "publications": [
+    {
+      "type_fr": "Mémoire de master",
+      "type_en": "Master's thesis",
+      "annee": "2020",
+      "institution": "Université libre de Bruxelles",
+      "titre_fr": "Le comportement électoral de la communauté belgo-turque à Bruxelles",
+      "titre_en": "The electoral behaviour of the Belgian-Turkish community in Brussels",
+      "resume_fr": "Une étude des choix de vote et des formes de participation politique des Bruxellois d'origine turque, dans le contexte institutionnel belge et bruxellois.",
+      "resume_en": "A study of the voting choices and forms of political participation of Brussels residents of Turkish origin, within the Belgian and Brussels institutional context.",
+      "mots_cles_fr": ["Sociologie électorale", "Diversité et représentation", "Diaspora turque", "Région de Bruxelles-Capitale"],
+      "mots_cles_en": ["Electoral sociology", "Diversity and representation", "Turkish diaspora", "Brussels-Capital Region"],
+      "fichier": "",
+      "lien": ""
+    }
+  ],
+  "formation": [
+    {
+      "dates": "2018 – 2020",
+      "titre_fr": "Master en sciences politiques",
+      "titre_en": "Master's in Political Science",
+      "lieu": "Université libre de Bruxelles",
+      "details_fr": "Orientation générale, finalité spécialisée.",
+      "details_en": "General track, specialised focus."
+    },
+    {
+      "dates": "2019 – 2020",
+      "titre_fr": "Séjour d'échange Erasmus+",
+      "titre_en": "Erasmus+ exchange",
+      "lieu": "Freie Universität Berlin",
+      "details_fr": "Master en sciences politiques, semestre d'échange.",
+      "details_en": "Master's in Political Science, exchange semester."
+    },
+    {
+      "dates": "2014 – 2018",
+      "titre_fr": "Bachelier en sciences politiques",
+      "titre_en": "Bachelor's in Political Science",
+      "lieu": "Université libre de Bruxelles",
+      "details_fr": "",
+      "details_en": ""
+    }
+  ],
+  "experience": [
+    {
+      "dates_fr": "Depuis janv. 2025",
+      "dates_en": "Since Jan 2025",
+      "titre_fr": "Éducateur",
+      "titre_en": "Educator",
+      "lieu": "I.C.T. Frans Fischer, Bruxelles",
+      "details_fr": "",
+      "details_en": "",
+      "actuel": true
+    },
+    {
+      "dates_fr": "Févr. – mars 2024",
+      "dates_en": "Feb – Mar 2024",
+      "titre_fr": "Éducateur",
+      "titre_en": "Educator",
+      "lieu": "Athénée Fernand Blum, Bruxelles",
+      "details_fr": "",
+      "details_en": "",
+      "actuel": false
+    },
+    {
+      "dates_fr": "Août – déc. 2023",
+      "dates_en": "Aug – Dec 2023",
+      "titre_fr": "Professeur de sciences humaines",
+      "titre_en": "Humanities teacher",
+      "lieu": "Singelijn Second'air",
+      "details_fr": "Histoire, géographie et sciences sociales dans une école à pédagogie active.",
+      "details_en": "History, geography and social sciences in a school using active-learning methods.",
+      "actuel": false
+    },
+    {
+      "dates_fr": "2022 – 2023",
+      "dates_en": "2022 – 2023",
+      "titre_fr": "Éducateur et agent FSE",
+      "titre_en": "Educator and ESF officer",
+      "lieu": "Institut de la Providence",
+      "details_fr": "Projet d'accrochage scolaire Amarrages+.",
+      "details_en": "Amarrages+ school-retention project.",
+      "actuel": false
+    },
+    {
+      "dates_fr": "Mai – juil. 2022",
+      "dates_en": "May – Jul 2022",
+      "titre_fr": "Professeur de sciences humaines",
+      "titre_en": "Humanities teacher",
+      "lieu": "Lycée la Retraite",
+      "details_fr": "Histoire, géographie et sciences sociales.",
+      "details_en": "History, geography and social sciences.",
+      "actuel": false
+    }
+  ],
+  "competences": [
+    { "fr": "Recherche en sciences sociales", "en": "Social science research" },
+    { "fr": "Analyse de données", "en": "Data analysis" },
+    { "fr": "Rédaction", "en": "Academic writing" },
+    { "fr": "Microsoft Office", "en": "Microsoft Office" }
+  ],
+  "langues": [
+    { "fr": "Français", "en": "French", "niveau_fr": "langue maternelle", "niveau_en": "native" },
+    { "fr": "Anglais", "en": "English", "niveau_fr": "C1", "niveau_en": "C1" },
+    { "fr": "Allemand", "en": "German", "niveau_fr": "A2/B1", "niveau_en": "A2/B1" },
+    { "fr": "Néerlandais", "en": "Dutch", "niveau_fr": "A2/B1", "niveau_en": "A2/B1" }
+  ]
+}
